@@ -25,8 +25,8 @@ Se a aceleração tiver ênfase no backend (Java, Python, C#, Go, PHP, etc) a eq
 *Para gerar o token é necessaŕio usar: 
 https://backend-python-stone.herokuapp.com/api/get_token
 
-USERNAME: DEMO
-PASSWORD: Dem@1234
+USERNAME : "tim@tim.io"
+PASSWORD : "Tim@1234"
 
 
 ###### Documentação API
