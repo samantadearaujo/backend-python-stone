@@ -45,6 +45,9 @@ Requisições para a API devem seguir os padrões:
     "levels": "https://backend-python-stone.herokuapp.com/api/levels/",
     "environment": "https://backend-python-stone.herokuapp.com/api/environment/"
 
+![Captura de tela de 2020-07-20 20-06-58](https://user-images.githubusercontent.com/57687300/87976267-bc504780-cac4-11ea-9f15-41798e6880f2.png)
+![Captura de tela de 2020-07-20 20-07-28](https://user-images.githubusercontent.com/57687300/87976269-bce8de00-cac4-11ea-9cb1-7685f444b066.png)
+
 ###### Estrutura 
 ```
 ├─ Procfile
